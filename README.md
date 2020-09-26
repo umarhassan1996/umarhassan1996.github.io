@@ -1,4 +1,4 @@
-# umarhassan1996.github.io
+# Umar Hassan
 
 ## Umar's GitHub page
 
