@@ -2,4 +2,4 @@
 
 ## Umar's GitHub page
 
-This is a test page for my GitHub.
+Testing out my new page I have created in GitHub.
